@@ -1,3 +1,3 @@
 # Website Link
-https://www.blog.bharatbardiya.live
+https://blog.bharatbardiya.live/
 
